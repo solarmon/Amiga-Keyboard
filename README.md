@@ -19,6 +19,7 @@ The GraphML files are best viewed in yEd as it allows you to select nodes and ed
 The following keyboard membranes are supported at the moment:
 
 * A500 / Mitsumi A619A (Large ENTER key)
+* A500 / Samsung 312502-12 (Dual membrane)
 * A1200 / QWERTY A1200-A 56C774A (Reproduction)
 
 Other Amiga keyboard membranes will be added over time.
@@ -29,7 +30,6 @@ Other Amiga keyboard membranes will be added over time.
 * A600 - Green membrane
 * A600 - Blue membrane
 * A500 - small ENTER key, left/right euro keys
-* A500 - Samsung, dual membrane
 * A500 - Space Invaders
 
 
