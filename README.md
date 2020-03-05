@@ -14,6 +14,10 @@ The GraphML files are best viewed in yEd as it allows you to select nodes and ed
 
 **Note:** Ideally, I would have liked the mapping and layouts to be available in amigapcb.org - this would be ideal. Alternatively, this mapping and layout should be really done in something like KiCad. In the future I may look at converting these in to KiCad once I learn how to use it.
 
+Thank you to **BleuLlama** for the A500 keyboard schematics, which helped me alot when working on these mappings:
+
+https://github.com/BleuLlama/AmigaSchematics
+
 ## Supported keyboard membranes
 
 The following keyboard membranes are supported at the moment:
