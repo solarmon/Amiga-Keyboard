@@ -14,13 +14,9 @@ The GraphML files are best viewed in yEd as it allows you to select nodes and ed
 
 **Note:** Ideally, I would have liked the mapping and layouts to be available in amigapcb.org - this would be ideal. Alternatively, this mapping and layout should be really done in something like KiCad. In the future I may look at converting these in to KiCad once I learn how to use it.
 
-Thank you to **BleuLlama** for the A500 keyboard schematics, which helped me alot when working on these mappings:
-
-https://github.com/BleuLlama/AmigaSchematics
-
 ## Supported keyboard membranes
 
-The following keyboard membranes are supported at the moment:
+The following keyboard membranes have been mapped so far:
 
 * A500 / Mitsumi A619A (Large ENTER key)
 * A500 / Mitsumi A619B (Small ENTER key, Left/Right Euro keys)
@@ -31,9 +27,22 @@ Other Amiga keyboard membranes will be added over time.
 
 ## To Do
 
+The following Amiga keyboards are on the to do list and will be done as when I acquire them:
+
 * A1200 - original membrane
 * A600 - Green membrane
 * A600 - Blue membrane
-* A500 - Space Invaders
+* A500 - Hi-Tek (Space Invaders) board
+* Any of the big box Amiga keyboards
 
+If you would like to donate an Amiga keyboard (or just the membrane/board) for mapping then it would be gratefully received!
 
+## Thank you!
+
+A big thank you to **BleuLlama** for the A500 keyboard schematics, which helped me alot when working on these mappings:
+
+https://github.com/BleuLlama/AmigaSchematics
+
+And to **nocash** on the EAB forums for starting the schematics of the Mitsumi keyboard at the following thread:
+
+http://eab.abime.net/showthread.php?t=81893
