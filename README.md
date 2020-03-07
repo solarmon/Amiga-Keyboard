@@ -22,6 +22,7 @@ The following keyboard membranes have been mapped so far:
 * A500 / Mitsumi A619B (Small ENTER key, Left/Right Euro keys)
 * A500 / Samsung 312502-12 (Dual membrane)
 * A1200 / QWERTY A1200-A 56C774A (Reproduction)
+* A600 / 8770-0056 REV E (Blue)
 
 Other Amiga keyboard membranes will be added over time.
 
@@ -31,7 +32,6 @@ The following Amiga keyboards are on the to do list and will be done as when I a
 
 * A1200 - original membrane
 * A600 - Green membrane
-* A600 - Blue membrane
 * A500 - Hi-Tek (Space Invaders) board
 * Any of the big box Amiga keyboards
 
