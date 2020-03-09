@@ -14,7 +14,7 @@ The GraphML files are best viewed in yEd as it allows you to select nodes and ed
 
 **Note:** Ideally, I would have liked the mapping and layouts to be available in amigapcb.org - this would be ideal. Alternatively, this mapping and layout should be really done in something like KiCad. In the future I may look at converting these in to KiCad once I learn how to use it.
 
-See the [Wiki](../../wiki) for information on how to best use yEd on these GaphML keyboard mappings.
+See the [Wiki](../../wiki) for information on how to best use yEd on these GraphML keyboard mappings.
 
 ## Supported keyboard membranes
 
