@@ -6,13 +6,15 @@
 
 This repository is here to host the files used to map the various Amiga keyboard membranes and matrix layouts.
 
-Currently the mapping is done using GraphML files produced using yEd Editor which can be downloaded from:
+Currently the mapping is done using **GraphML** files produced using yEd Editor which can be downloaded from:
 
 https://www.yworks.com/products/yed
 
 The GraphML files are best viewed in yEd as it allows you to select nodes and edges which will get highlighted so that you can easily follow the traces and path.
 
 **Note:** Ideally, I would have liked the mapping and layouts to be available in amigapcb.org - this would be ideal. Alternatively, this mapping and layout should be really done in something like KiCad. In the future I may look at converting these in to KiCad once I learn how to use it.
+
+See the [Wiki](../../wiki) for information on how to best use yEd on these GaphML keyboard mappings.
 
 ## Supported keyboard membranes
 
