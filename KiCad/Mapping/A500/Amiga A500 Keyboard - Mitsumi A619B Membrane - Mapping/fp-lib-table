@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Amiga A500 Keyboard - Mitsumi Membrane")(type KiCad)(uri "${KIPRJMOD}/Amiga A500 Keyboard - Mitsumi Membrane.pretty")(options "")(descr ""))
+)
