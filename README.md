@@ -34,3 +34,14 @@ The following keyboard membranes have been mapped so far:
 You will require **yEd** editor to view the design files:
 
 https://www.yworks.com/products/yed
+
+## Thank you!
+
+A big thank you to **BleuLlama** for the A500 keyboard schematics, which helped me alot when working on these mappings:
+
+https://github.com/BleuLlama/AmigaSchematics
+
+And to **nocash** on the EAB forums for starting the schematics of the Mitsumi keyboard at the following thread:
+
+http://eab.abime.net/showthread.php?t=81893
+
