@@ -2,7 +2,7 @@
 
 **!!! WARNING - FOR MAPPING ONLY - NOT FOR PCB PRODUCTION !!!**
 
-This is the mapping of the Amiga A500 Mitsumo A619A membrane, done in KiCad format.
+This is the mapping of the Amiga A500 Mitsumi A619A membrane, done in KiCad format.
 
 You will need KiCad 7 (https://www.kicad.org/) to view and use the design files.
 
