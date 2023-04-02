@@ -22,6 +22,6 @@ You will need KiCad 7 (https://www.kicad.org/) to view and use the design files.
 
 ### Highlight Net
 
-* Select a pad or a trace, right click and select Net **Inspection Tools -> Highlight Net**. All the traces and pads conencted to the same net will be highlighted.
+* Select a pad or a trace, right click and select **Net Inspection Tools -> Highlight Net**. All the traces and pads conencted to the same net will be highlighted.
 
 ![image](https://github.com/solarmon/Amiga-Keyboard/blob/master/KiCad/Wiki/KiCad-Hightlight-Net.png)
