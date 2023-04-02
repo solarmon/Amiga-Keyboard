@@ -12,7 +12,7 @@ You will need KiCad 7 (https://www.kicad.org/) to view and use the design files.
 
 * Install KiCad 7.
 * Download this **Amiga-Keyboard** Github repo.
-* Load the **.kicad_pcb** file withKiCad 7
+* Load the required **.kicad_pcb** file with KiCad 7
 
 ### Net Inspector
 
