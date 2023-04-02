@@ -413,7 +413,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Amiga A500 Keyboard - Mitsumi A619A Membrane.kicad_pro",
+    "filename": "Amiga A500 Keyboard - Mitsumi A619A Membrane - Mapping.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -524,20 +524,7 @@
       "VCC": "rgb(255, 15, 8)"
     },
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "GND",
-        "pattern": "GND"
-      },
-      {
-        "netclass": "VCC",
-        "pattern": "VCC"
-      },
-      {
-        "netclass": "CAPS_LED",
-        "pattern": "CAPS_LED"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
