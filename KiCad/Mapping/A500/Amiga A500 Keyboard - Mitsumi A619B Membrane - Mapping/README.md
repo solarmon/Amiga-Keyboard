@@ -16,12 +16,12 @@ You will need KiCad 7 (https://www.kicad.org/) to view and use the design files.
 
 ### Net Inspector
 
-* Use **Tools -> Net Inspector** to list the available nets and select one or more (use SHIFT select method) of the **Y** or **X** keyboard signals, and the keyboard caps pad connected to it will be highlighted.
+* Use **Tools -> Net Inspector** to list the available nets and select one or more (use SHIFT select method) of the **Y** or **X** keyboard signals, and all the keyboard caps pads and associated traces connected to it will be highlighted.
 
 ![image](https://user-images.githubusercontent.com/46369787/229370991-cadc6f86-89ff-41f9-88b9-26cbfe1d01a0.png)
 
 ### Highlight Net
 
-* Select a pad or a trace, right click and select **Net Inspection Tools -> Highlight Net**. All the traces and pads conencted to the same net will be highlighted.
+* Select one or more (use SHIFT select method) pad or a trace, right click and select **Net Inspection Tools -> Highlight Net**. All the traces and pads conencted to the same net(s) will be highlighted.
 
 ![image](https://github.com/solarmon/Amiga-Keyboard/blob/master/KiCad/Wiki/KiCad-Hightlight-Net.png)
